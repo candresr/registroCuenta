@@ -17,9 +17,9 @@ Servidor Despliegue:
 - Tomcat 8
 
 ### Instalación
-- Clonar el [proyecto] (https://github.com/candresr/registroCuenta)
-- Descargar el archivo registroCuenta.war (https://github.com/candresr/registroCuenta/tree/master/target)
-- Desplegar en el servidor 
+- Clonar el [proyecto] (https://github.com/candresr/registroCuenta) o
+- Desplegar en el servidor el archivo registroCuenta.war (https://github.com/candresr/registroCuenta/tree/master/target)
+ 
 
 # Happy Coding! 
 Autor:
