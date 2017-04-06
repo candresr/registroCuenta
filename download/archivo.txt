@@ -1,0 +1,2 @@
+{"id":"Cedula de Ciudadania","numero":"12345678","banco":"Davivienda","cuenta":"2345678","tipo":"Banco Popular"}
+{"id":"Cedula de Extranjeria","numero":"6543","banco":"Bancolombia","cuenta":"7654","tipo":"Credito"}
