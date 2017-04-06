@@ -6,10 +6,8 @@ Depenencias Aplicacion:
 - Maven
 - ExtJS 4
 
-Librerias Externas:
-- Json-simple
-
 IDE
+
 -Eclipse Neon3
 
 
